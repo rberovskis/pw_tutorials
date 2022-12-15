@@ -1,0 +1,8 @@
+node_modules/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+
+0_my_attempts/test-results/
+0_my_attempts/playwright-report/
+0_my_attempts/playwright/.cache/
